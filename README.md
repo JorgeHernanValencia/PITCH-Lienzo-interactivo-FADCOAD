@@ -1,7 +1,7 @@
 # 🎨 PITCH-Lienzo Interactivo
 
 <p align="center">
-  <img src="public/assets/imagen/screenshots/Screenshot_2025-07-09-18-34-29-293_com.android.chrome.png" alt="screenshots" width="80vw"/>
+  <img src="public/assets/imagen/screenshots/Screenshot_2025-07-09-18-34-29-293_com.android.chrome.png" alt="screenshots" width="800"/>
 </p>
 
 **Una herramienta profesional para crear presentaciones web dinámicas y no lineales con transiciones suaves sobre un lienzo infinito.**
