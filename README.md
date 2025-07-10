@@ -22,6 +22,10 @@ A diferencia de las diapositivas tradicionales, FAD Lienzo Interactivo utiliza u
 * **Exportación Web Autónoma:** Genera un único archivo `index.html` que encapsula toda la presentación, listo para su distribución o para ser integrado en otros proyectos web.
 * **Rendimiento Optimizado:** Diseñado para ser una herramienta eficiente y robusta para uso comercial.
 
+<p align="center">
+  <img src="./public/assets/images/screenshots/Captura de pantalla_2025-07-09-18-34-29-293_com.android.chrome.png" alt="screenshots" width="200"/>
+</p>
+
 Puedes probar la aplicación, ingresando a https://fadcoad.com/pitch
 ---
 
