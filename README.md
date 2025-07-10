@@ -1,5 +1,9 @@
 # 🎨 PITCH-Lienzo Interactivo
 
+<p align="center">
+  <img src="public/assets/imagen/screenshots/Screenshot_2025-07-09-18-34-29-293_com.android.chrome.png" alt="screenshots" width="80vw"/>
+</p>
+
 **Una herramienta profesional para crear presentaciones web dinámicas y no lineales con transiciones suaves sobre un lienzo infinito.**
 
 © 2025 Editorial FAD Filigrana & FADCOAD. Todos los derechos reservados.
@@ -22,9 +26,6 @@ A diferencia de las diapositivas tradicionales, FAD Lienzo Interactivo utiliza u
 * **Exportación Web Autónoma:** Genera un único archivo `index.html` que encapsula toda la presentación, listo para su distribución o para ser integrado en otros proyectos web.
 * **Rendimiento Optimizado:** Diseñado para ser una herramienta eficiente y robusta para uso comercial.
 
-<p align="center">
-  <img src="public/assets/imagen/screenshots/Screenshot_2025-07-09-18-34-29-293_com.android.chrome.png" alt="screenshots" width="200"/>
-</p>
 
 Puedes probar la aplicación, ingresando a https://fadcoad.com/pitch
 ---
